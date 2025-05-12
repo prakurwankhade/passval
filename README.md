@@ -1,8 +1,21 @@
-# React + Vite
+# 🔐 Password Validation App - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern password validation component built with **React.js**. It provides real-time feedback for users as they type, ensuring strong password creation with customizable rules.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Real-time password strength validation
+- ✅ Checks for:
+  - Minimum length
+  - Uppercase and lowercase characters
+  - Numbers
+  - Special symbols
+- ✅ Live feedback with dynamic UI
+- ✅ Responsive design
+- ✅ Easily customizable rules
+
+
+git clone https://github.com/prakurwankhade/password-validator-react.git
+cd password-validator-react
+npm install
+npm start
